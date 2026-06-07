@@ -16,7 +16,7 @@ export const resources = [
   },
   {
     image: "/assets/gen_design.png",
-    title: "Generative Design, Creating Coding",
+    title: "Generative Design, Creative Coding",
     url: "http://www.generative-gestaltung.de/2/",
     description: "Here, you will find all of the sketches from the book and their associated code. Run the sketches directly in the browser with the p5.js-web-editor or locally on your machine.",
     tag: "Tools"
@@ -69,6 +69,20 @@ export const resources = [
     url: "https://www.youtube.com/@lana.easteregg",
     description: "Simple 3D Blender project tutorials for beginners with cute and cozy aesthetics. Lana is a self-taught 3D artist and animator who shares her knowledge and passion for 3D art through her YouTube channel. Her tutorials cover a range of topics, including modeling, texturing, lighting, and animation, all presented in a friendly and approachable style.",
     tag: "Tutorials"
+  },
+  {
+    image: "/assets/codepath.png",
+    title: "CodePath",
+    url: "https://www.codepath.org/",
+    description: "CodePath is a nonprofit organization that offers free, project-based courses in Web Development, Mobile App Development, and AI Engineering. In fact, this site was created for the CodePath Web102 Course! Check out their website for more information on their courses and resources!",
+    tag: "Education"
+  },
+  {
+    image: "/assets/kadenze.jpeg",
+    title: "kadenze",
+    url: "https://www.kadenze.com/",
+    description: "Kadenze is an online learning platform that offers courses in creative technology, including creative coding, digital art, music production, and more. Their courses are designed and taught by industry professionals and academics, providing students with a comprehensive education in creative technology, and their courses can be audited for free.",
+    tag: "Education"
   },
   {
     image: "/assets/portfolio.png",
