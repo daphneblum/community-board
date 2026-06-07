@@ -64,6 +64,13 @@ export const resources = [
     tag: "Library"
   },
   {
+    image: "/assets/easteregg.jpg",
+    title: "Lana Easteregg",
+    url: "https://www.youtube.com/@lana.easteregg",
+    description: "Simple 3D Blender project tutorials for beginners with cute and cozy aesthetics. Lana is a self-taught 3D artist and animator who shares her knowledge and passion for 3D art through her YouTube channel. Her tutorials cover a range of topics, including modeling, texturing, lighting, and animation, all presented in a friendly and approachable style.",
+    tag: "Tutorials"
+  },
+  {
     image: "/assets/portfolio.png",
     title: "Daphne's Portfolio",
     url: "https://daphneblum-portfolio.vercel.app/",
