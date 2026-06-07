@@ -1,6 +1,6 @@
 # Web Development Project 1 - *Name of App Here*
 
-Submitted by: **Daphne Blum**
+Submitted by: **Your Name Here**
 
 This web app: **insert description**
 
