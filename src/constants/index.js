@@ -4,7 +4,7 @@ export const resources = [
     image: "/assets/programming_chaos.jpg",
     title: "Programming Chaos",
     url: "https://www.youtube.com/channel/UC2rO9hEjJkjqzktvtj0ggNQ",
-    description: "Hone your programming skills with fun, interesting programming projects! In these videos Dr. Terry Soule walk through creating short, interesting programming projects such as procedural generation, artificial life simulations, and more - mostly in Java using Processing. ",
+    description: "Hone your programming skills with fun, interesting programming projects! In these videos Dr. Terry Soule walks through creating short, interesting programming projects such as procedural generation, artificial life simulations, and more - mostly in Java using Processing. ",
     tag: "Tutorials"
   },
   {
