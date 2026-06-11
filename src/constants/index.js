@@ -85,6 +85,20 @@ export const resources = [
     tag: "Education"
   },
   {
+    image: "/assets/shaders.png",
+    title: "The Book of Shaders",
+    url: "https://thebookofshaders.com/",
+    description: "The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders. It is a free online resource that teaches the fundamentals of shader programming, including concepts like noise, feedback loops, and ray marching, using interactive examples and exercises.",
+    tag: "Education"
+  },
+  {
+    image: "/assets/awwwards.jpg",
+    title: "Awwwards",
+    url: "https://www.awwwards.com/",
+    description: "Awwwards is a leading international award and recognition platform for web design and development. It celebrates the best websites and provides a space for designers and developers to showcase their work and connect with the global creative community.",
+    tag: "Inspiration"
+  },
+  {
     image: "/assets/portfolio.png",
     title: "Daphne's Portfolio",
     url: "https://daphneblum-portfolio.vercel.app/",
