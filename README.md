@@ -1,6 +1,7 @@
 # Web Development Project 1 - *Creative Coding Resource Board*
 
 Submitted by: **Daphne Blum**
+The live site can be found [here](https://creative-coding-hub-chi.vercel.app/)
 
 This web app: **This webapp is a collection of resources for people interested in learning more about creative coding and ways to use technology for art, including libraries, tools, and other resources. Best of all, each resource is free!**
 
